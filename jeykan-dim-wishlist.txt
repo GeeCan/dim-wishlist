@@ -27,6 +27,13 @@ dimwishlist:item=2112909414&perks=1926090091,1168162263,1968497646,3425386926
 dimwishlist:item=2112909414&perks=1926090091,1168162263,1561002382,3425386926
 dimwishlist:item=2112909414&perks=1926090091,1168162263,1885400500,3425386926
 
+// claws of the wolf
+//notes:PvP rolls. Recommended MW: Range - Sefferoni
+dimwishlist:item=1280933460&perks=1482024992,1561002382,460017080,2213355989
+
+// claws of the wolf
+//notes:PvE rolls. Recommended MW: Range - jeykan
+dimwishlist:item=1280933460&perks=1482024992,1087426260,1168162263,3425386926
 
 
 
