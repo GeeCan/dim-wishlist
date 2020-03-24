@@ -2,7 +2,7 @@ title:This is a collection of jeykan and Sefferoni's god/recommended rolls focus
 description:Thanks to Sefferoni for recommending stuff that I'm too stupid to realize, and oh, some PvP rolls.
 
 // duke mk. 44
-//notes: Not really the best PvE hand cannon to use, Spare Rations is, in our opinion the better gun for PvE, still very decent though. Recommended MW - Range or Stability - jeykan
+//notes:Not really the best PvE hand cannon to use, Spare Rations is, in our opinion the better gun for PvE, still very decent though. Recommended MW - Range or Stability - jeykan
 dimwishlist:item=2112909414&perks=247725512,1885400500,3425386926
 dimwishlist:item=2112909414&perks=1926090091,247725512,1885400500,3425386926
 dimwishlist:item=2112909414&perks=1926090091,247725512,1561002382,3425386926
