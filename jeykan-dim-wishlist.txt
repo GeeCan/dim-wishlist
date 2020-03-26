@@ -42,13 +42,13 @@ dimwishlist:item=1280933460&perks=1561002382,1168162263,3425386926
 dimwishlist:item=1280933460&perks=1885400500,1168162263,3425386926
 
 // ether doctor
-//notes:Recommended MW: Range
+//notes:Recommended MW: Range - jeykan
 dimwishlist:item=1839565992&perks=1968497646,1631667848,3425386926
 dimwishlist:item=1839565992&perks=1561002382,1631667848,3425386926
 dimwishlist:item=1839565992&perks=1885400500,1631667848,3425386926
 
 // misfit
-//notes:Recommended MW: Range
+//notes:Recommended MW: Range - jeykan
 dimwishlist:item=819441402&perks=1968497646,2213355989,3425386926
 dimwishlist:item=819441402&perks=1561002382,2213355989,3425386926
 dimwishlist:item=819441402&perks=1885400500,2213355989,3425386926
@@ -57,16 +57,16 @@ dimwishlist:item=819441402&perks=1561002382,1631667848,3425386926
 dimwishlist:item=819441402&perks=1885400500,1631667848,3425386926
 
 // galliard-42 xn7568
-//notes:Any short zoom scope will do. Recommended MW: Range
+//notes:Any short zoom scope will do. Recommended MW: Range - jeykan
 dimwishlist:item=1775804198&perks=1968497646,1168162263,3425386926
 dimwishlist:item=1775804198&perks=1561002382,1168162263,3425386926
 dimwishlist:item=1775804198&perks=1885400500,1168162263,3425386926
 
 // austringer
-//notes:Recommended MW: Range
+//notes:Recommended MW: Range - jeykan
 dimwishlist:item=2429822977&perks=3142289711,1168162263,3425386926
 
-// seventh seraph vy-7
+// seventh seraph vy-7 - jeykan
 dimwishlist:item=766323545&perks=1482024992,3142289711,2010801679,2779035018
 dimwishlist:item=766323545&perks=4090651448,3142289711,2010801679,2779035018
 dimwishlist:item=766323545&perks=3661387068,3142289711,2010801679,2779035018
@@ -77,7 +77,7 @@ dimwishlist:item=1865351684&perks=1561002382,972757866,1015611457
 dimwishlist:item=1865351684&perks=1885400500,972757866,1015611457
 
 // spare rations
-//notes:PvE rolls. Recommended MW: Range
+//notes:PvE rolls. Recommended MW: Range - jeykan
 dimwishlist:item=3116356268&perks=1968497646,247725512,3425386926
 dimwishlist:item=3116356268&perks=1561002382,247725512,3425386926
 dimwishlist:item=3116356268&perks=1885400500,247725512,3425386926
