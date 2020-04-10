@@ -214,8 +214,6 @@ dimwishlist:item=1865351684&perks=965619223,1968497646,2387244414,1015611457
 dimwishlist:item=1865351684&perks=965619223,1561002382,2387244414,1015611457
 dimwishlist:item=1865351684&perks=965619223,1885400500,2387244414,1015611457
 
-// spare rations
-//notes:PvE rolls. Recommended MW: Range - jeykan
 // Spare Rations
 //notes:PvE rolls. Recommended MW: Range - jeykan
 dimwishlist:item=3116356268&perks=4090651448,1968497646,247725512,3425386926
