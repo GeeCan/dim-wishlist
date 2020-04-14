@@ -3297,11 +3297,11 @@ dimwishlist:item=4190932264&perks=1482024992,3177308360,3513791699,2551157718
 
 title:This portion is reserved for bad rolls.
 
-// Scout Rifles
+// Scout Rifle
 dimwishlist:item=-525750263#notes:meh....
 
-// Pulse Rifles
-dimwishlist:item==-299665907#notes:Bad rolls.
+// Pulse Rifle
+dimwishlist:item=-299665907#notes:Bad rolls.
 
 
 
