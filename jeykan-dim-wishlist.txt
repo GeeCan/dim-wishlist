@@ -3294,21 +3294,102 @@ dimwishlist:item=4190932264&perks=1482024992,3177308360,3513791699,2551157718
 
 
 
-
 title:This portion is reserved for bad rolls.
 
-// Scout Rifle
+// Scout Rifles
 dimwishlist:item=-525750263#notes:meh....
+dimwishlist:item=-3040742682#notes:Bad rolls.
+dimwishlist:item=-3504336176#notes:Bad rolls.
+dimwishlist:item=-2723241847#notes:Bad rolls.
+dimwishlist:item=-1982711279#notes:Bad rolls.
+dimwishlist:item=-3799980700#notes:Bad rolls.
 
-// Pulse Rifle
+// Pulse Rifles
 dimwishlist:item=-299665907#notes:Bad rolls.
+dimwishlist:item=-2408405461#notes:Bad rolls.
+dimwishlist:item=-208088207#notes:Bad rolls.
+dimwishlist:item=-3843477312#notes:Bad rolls.
+dimwishlist:item=-2712244741#notes:Bad rolls.
+dimwishlist:item=-4138174248#notes:Bad rolls.
+dimwishlist:item=-792755504#notes:Bad rolls.
+
+// Bows
+dimwishlist:item=-4095896073#notes:Bad rolls.
+dimwishlist:item=-421573768#notes:Bad rolls.
 
 
+// Hand Cannons
+dimwishlist:item=-2112909414#notes:Bad rolls.
+dimwishlist:item=-834081972#notes:Bad rolls.
+dimwishlist:item=-2429822977#notes:Bad rolls.
+dimwishlist:item=-2742838701#notes:Bad rolls.
+dimwishlist:item=-3037520408#notes:Bad rolls.
+dimwishlist:item=-3116356268#notes:Bad rolls.
+dimwishlist:item=-48643186#notes:Bad rolls.
+dimwishlist:item=-2575506895#notes:Bad rolls.
+
+// Auto Rifles
+dimwishlist:item=-1289997971#notes:Bad rolls.
+dimwishlist:item=-640114618#notes:Bad rolls.
+dimwishlist:item=-1907698332#notes:Bad rolls.
+dimwishlist:item=-1561006927#notes:Bad rolls.
+dimwishlist:item=-1251729046#notes:Bad rolls.
+dimwishlist:item=-528834068#notes:Bad rolls.
+dimwishlist:item=-1952163498#notes:Bad rolls.
+dimwishlist:item=-821154603#notes:Bad rolls.
+dimwishlist:item=-2723909519#notes:Bad rolls.
 
 
+// Sniper Rifles
+dimwishlist:item=-4190932264#notes:Bad rolls.
+dimwishlist:item=-2807687156#notes:Bad rolls.
+dimwishlist:item=-4148143418#notes:Bad rolls.
+dimwishlist:item=-3164743584#notes:Bad rolls.
+dimwishlist:item=-3100452337#notes:Bad rolls.
+dimwishlist:item=-3169616514#notes:Bad rolls.
+dimwishlist:item=-3745990145#notes:Bad rolls.
 
 
+// Shotguns
+dimwishlist:item=-3356526253#notes:Bad rolls.
+dimwishlist:item=-4020742303#notes:Bad rolls.
+dimwishlist:item=-755130877#notes:Bad rolls.
+dimwishlist:item=-3393519051#notes:Bad rolls.
+dimwishlist:item=-1697682876#notes:Bad rolls.
+dimwishlist:item=-1821724780#notes:Bad rolls.
 
+
+// Submachine Guns
+dimwishlist:item=-1357080535#notes:Bad rolls.
+dimwishlist:item=-2744715540#notes:Bad rolls.
+dimwishlist:item=-2105827099#notes:Bad rolls.
+dimwishlist:item=-1506719573#notes:Bad rolls.
+dimwishlist:item=-766323545#notes:Bad rolls.
+
+
+// Fusion Rifles
+dimwishlist:item=-3055192515#notes:Bad rolls.
+dimwishlist:item=-2209003210#notes:Bad rolls.
+
+
+// Grenade Launchers
+dimwishlist:item=-195440257#notes:Bad rolls.
+dimwishlist:item=-1757129747#notes:Bad rolls.
+dimwishlist:item=-218335759#notes:Bad rolls.
+dimwishlist:item=-2257180473#notes:Bad rolls.
+
+
+// Rocket Launchers
+dimwishlist:item=-1529450902#notes:Bad rolls.
+
+
+// Machine Guns
+dimwishlist:item=-2582755344#notes:Bad rolls.
+
+
+// Sidearms
+dimwishlist:item=-3937866388#notes:Bad rolls.
+dimwishlist:item=-3222518097#notes:Bad rolls.
 
 
 
