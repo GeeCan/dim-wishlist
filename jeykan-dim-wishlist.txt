@@ -1,12 +1,6 @@
 title:This is a collection of jeykan and Sefferoni's god/recommended rolls focusing primarily on PvE.
 description:Thanks to Sefferoni for recommending stuff that I'm too stupid to realize, and oh, some PvP rolls.
 
-// Scout Rifles
-dimwishlist:item=-525750263#notes:meh....
-
-// Pulse Rifles
-dimwishlist:item==-299665907#notes:Bad rolls.
-
 // Outlast
 dimwishlist:item=299665907&perks=4090651448,3230963543,2779035018,3425386926
 
@@ -3301,7 +3295,13 @@ dimwishlist:item=4190932264&perks=1482024992,3177308360,3513791699,2551157718
 
 
 
+title:This portion is reserved for bad rolls.
 
+// Scout Rifles
+dimwishlist:item=-525750263#notes:meh....
+
+// Pulse Rifles
+dimwishlist:item==-299665907#notes:Bad rolls.
 
 
 
