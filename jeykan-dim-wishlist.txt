@@ -3390,6 +3390,9 @@ dimwishlist:item=4190932264&perks=1482024992,3177308360,3513791699,2551157718
 
 
 
+
+
+
 title:This portion is reserved for bad rolls.
 
 // Scout Rifles
@@ -3473,6 +3476,7 @@ dimwishlist:item=-195440257#notes:Bad rolls.
 dimwishlist:item=-1757129747#notes:Bad rolls.
 dimwishlist:item=-218335759#notes:Bad rolls.
 dimwishlist:item=-2257180473#notes:Bad rolls.
+dimwishlist:item=-2108920981#notes:Bad rolls.
 
 
 // Rocket Launchers
