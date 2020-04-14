@@ -4661,7 +4661,7 @@ dimwishlist:item=4166221755&perks=1392496348,106909392,1556840489,1546637391
 
 // Vestian Dynasty
 //notes:jeykan (??? PvE ???): PvE rolls. Kinda rare. Recommended MW - Stability|tags:PvE
-dimwishlist:item=3334276332&perks=3661387068,1968497646,1015611457,2848615171
+dimwishlist:item=3334276332&perks=1467527085,1968497646,1015611457,2848615171
 
 // Bad Omens
 //notes:jeykan (??? PvE ???): PvE & PvP rolls. Recommended MW - Blast Radius or Velocity|tags:PvE
