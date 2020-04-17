@@ -7397,7 +7397,7 @@ dimwishlist:item=-1821724780#notes:Bad rolls.
 dimwishlist:item=-64236626#notes:Bad rolls.
 dimwishlist:item=-346136302#notes:Bad rolls.
 dimwishlist:item=-2326716489#notes:Bad rolls.
-dimwishlist:item=636912560#notes:Bad rolls.
+dimwishlist:item=-636912560#notes:Bad rolls.
 
 // Fusion Rifles
 dimwishlist:item=-3055192515#notes:Bad rolls.
